@@ -1,0 +1,28 @@
+{
+    "name": "vscode-better-theme-extension-pack",
+    "displayName": "Better Theme Extension Pack",
+    "description": "An extension pack to make your VSCode more beautiful by default.",
+    "version": "0.0.1",
+    "publisher": "gquittet",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:gquittet/vscode-better-theme-extension-pack.git"
+    },
+    "bugs": {
+        "url": "https://github.com/gquittet/vscode-better-theme-extension-pack/issues",
+        "email": "guillaume.quittet@gmail.com"
+    },
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "dracula-theme.theme-dracula",
+        "enkia.tokyo-night",
+        "file-icons.file-icons",
+        "GitHub.github-vscode-theme",
+        "liviuschera.noctis"
+    ]
+}
